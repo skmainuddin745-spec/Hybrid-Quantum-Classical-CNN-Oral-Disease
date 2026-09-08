@@ -1,0 +1,22 @@
+# Large trained model files
+*.h5
+*.pkl
+*.pt
+*.pth
+saved_model/
+
+# Dataset (download from Kaggle)
+dataset/
+train/
+val/
+test/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
